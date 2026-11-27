@@ -1,7 +1,7 @@
 # RedstoneRefresh
 Minecraft Beta 1.7.3 ModLoader mod to refresh stuck redstone signals.
 ### Without Mod
-<img width="1440" height="811" alt="without-mod" src="https://github.com/user-attachments/assets/a432ec11-0bdc-4154-8751-156b47f94886" />
+<img width="480" height="280" alt="without-mod" src="https://github.com/user-attachments/assets/a432ec11-0bdc-4154-8751-156b47f94886" />
 
 ### With Mod
 <img width="1440" height="811" alt="with-mod" src="https://github.com/user-attachments/assets/e643bf9d-795f-46ba-996b-79d252bf1b27" />
