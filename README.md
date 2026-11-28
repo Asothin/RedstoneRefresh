@@ -1,4 +1,4 @@
-# RedstoneRefresh
+# Redstone Refresh
 Minecraft Beta 1.7.3 ModLoader single player mod to refresh stuck redstone signals.
 ### Without Mod
 <img width="480" height="280" alt="without-mod" src="https://github.com/user-attachments/assets/a432ec11-0bdc-4154-8751-156b47f94886" />
